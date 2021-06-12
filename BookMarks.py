@@ -38,7 +38,7 @@ def savebookmark():
         myconnection.close()
         writehtml()
 
-#actualizarHTML: Write the bookmarks
+#writehtml: Write the bookmarks
 
 def writehtml():
     try:
